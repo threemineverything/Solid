@@ -8,7 +8,7 @@ namespace Solid
     {
         static void Main(string[] args)
         {
-            // SingleRespProb();
+            SingleRespProb();
             SingleRespSol();
         }
 
