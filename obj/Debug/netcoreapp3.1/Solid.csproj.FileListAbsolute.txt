@@ -1,0 +1,11 @@
+/Users/animeshmalhotra/Documents/Learning/Solid/obj/Debug/netcoreapp3.1/Solid.csprojAssemblyReference.cache
+/Users/animeshmalhotra/Documents/Learning/Solid/obj/Debug/netcoreapp3.1/Solid.AssemblyInfoInputs.cache
+/Users/animeshmalhotra/Documents/Learning/Solid/obj/Debug/netcoreapp3.1/Solid.AssemblyInfo.cs
+/Users/animeshmalhotra/Documents/Learning/Solid/bin/Debug/netcoreapp3.1/Solid
+/Users/animeshmalhotra/Documents/Learning/Solid/bin/Debug/netcoreapp3.1/Solid.deps.json
+/Users/animeshmalhotra/Documents/Learning/Solid/bin/Debug/netcoreapp3.1/Solid.runtimeconfig.json
+/Users/animeshmalhotra/Documents/Learning/Solid/bin/Debug/netcoreapp3.1/Solid.runtimeconfig.dev.json
+/Users/animeshmalhotra/Documents/Learning/Solid/bin/Debug/netcoreapp3.1/Solid.dll
+/Users/animeshmalhotra/Documents/Learning/Solid/bin/Debug/netcoreapp3.1/Solid.pdb
+/Users/animeshmalhotra/Documents/Learning/Solid/obj/Debug/netcoreapp3.1/Solid.dll
+/Users/animeshmalhotra/Documents/Learning/Solid/obj/Debug/netcoreapp3.1/Solid.pdb
